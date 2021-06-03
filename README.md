@@ -24,7 +24,7 @@ Debe ejecutar la api y el cliente web.
 Debera cambiar la cadena de conexion en el archivo appsettings.json en el proyecto ADM.PruebaTecnica.Api por la nueva ubicacion del archivo ADMDataBase.mdf
 ```
   "ConnectionStrings": {
-    "MDF": "ubicacion actual del ADMDataBase.mdf"
+    "MDF": "ubicacion actual del archivo ADMDataBase.mdf"
   },
 ```
 

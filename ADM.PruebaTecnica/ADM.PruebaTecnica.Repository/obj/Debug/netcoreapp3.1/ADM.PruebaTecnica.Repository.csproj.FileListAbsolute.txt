@@ -1,0 +1,14 @@
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.deps.json
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.AssemblyInfoInputs.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.AssemblyInfo.cs
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.csproj.CoreCompileInputs.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Data.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Data.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.csprojAssemblyReference.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Repository\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.csproj.CopyComplete

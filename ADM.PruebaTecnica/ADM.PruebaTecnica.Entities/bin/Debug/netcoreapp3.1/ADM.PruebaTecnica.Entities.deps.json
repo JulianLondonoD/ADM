@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ADM.PruebaTecnica.Entities/1.0.0": {
+        "runtime": {
+          "ADM.PruebaTecnica.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADM.PruebaTecnica.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

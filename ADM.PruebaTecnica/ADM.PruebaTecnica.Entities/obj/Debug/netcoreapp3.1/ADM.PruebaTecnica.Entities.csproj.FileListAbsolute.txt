@@ -1,0 +1,9 @@
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.deps.json
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.csprojAssemblyReference.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.AssemblyInfoInputs.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.AssemblyInfo.cs
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.csproj.CoreCompileInputs.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Entities\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.pdb

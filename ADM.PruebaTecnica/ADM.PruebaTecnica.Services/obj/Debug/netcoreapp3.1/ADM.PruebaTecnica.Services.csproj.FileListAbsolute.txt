@@ -1,0 +1,16 @@
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.deps.json
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Data.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Entities.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Repository.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\bin\Debug\netcoreapp3.1\ADM.PruebaTecnica.Data.pdb
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.csprojAssemblyReference.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.AssemblyInfoInputs.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.AssemblyInfo.cs
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.csproj.CoreCompileInputs.cache
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.csproj.CopyComplete
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.dll
+C:\Users\30JTNC\source\repos\ADM.PruebaTecnica\ADM.PruebaTecnica.Services\obj\Debug\netcoreapp3.1\ADM.PruebaTecnica.Services.pdb

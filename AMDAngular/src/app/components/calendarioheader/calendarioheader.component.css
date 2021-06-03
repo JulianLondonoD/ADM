@@ -1,0 +1,33 @@
+div {
+    justify-content: center;
+    align-content: center;
+}
+
+.calendar {
+    box-sizing: border-box;
+    font-size: 1rem;
+    max-width: 400px;
+  }
+
+.calendar .header {
+    background-color: white;
+    text-align: center;
+    min-height: 2rem;
+    line-height: 2rem;
+    color: var(--black);
+    font-family: var(--font-book);
+    font-weight: 700;
+    display: flex;
+  }
+
+  .calendar .header .previous {
+    flex: 1;
+    text-align: left;
+    margin-left: 1rem;
+  }
+  
+  .calendar .header .next {
+    flex: 1;
+    text-align: right;
+    margin-right: 1rem;
+  }

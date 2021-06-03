@@ -1,0 +1,20 @@
+<h5>NUEVA CATEGORÍA</h5>
+<form [formGroup] = "form" (ngSubmit)="onSubmitCategoria()">
+    <div class="input-group input-group-lg mb-3">
+        <span class="input-group-text">
+            <i 
+                class="fas fa-shapes" 
+                [class.green-icon]= "this.form.get('Categoria')?.valid"
+                [class.red-icon]= "this.form.get('Categoria')?.invalid && this.form.get('Categoria')?.touched"
+            >
+                
+            </i>
+        </span>
+        <input formControlName="Categoria" type="text" class="form-control" placeholder="Categoría">
+    </div>
+    <div class="d-grid gap-2">
+     <button [disabled]= "this.form.get('Categoria')?.invalid" type="submit" class="btn btn-primary btn-lg">
+         <i class="fas fa-database"></i>&nbsp;GUARDAR
+    </button>
+    </div>
+</form>

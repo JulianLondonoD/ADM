@@ -1,0 +1,29 @@
+
+<div class="row mt-4">
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-body text-center">
+               <app-categorianueva (reloadCategorias)="onReloadCategoria($event)"></app-categorianueva>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="card">
+            <div class="card-bod text-center">
+                <h5>LASTADO DE CATEGORIAS</h5>
+                <table class="table">
+                    <tbody>
+                        <tr *ngFor="let categoria of categorias">
+                            <td>{{categoria.IdCategoria}}</td>
+                            <td>{{categoria.Categoria}}</td>
+                            <td>
+                                <i (click)= "onDeleteCategoria(categoria)" class="far fa-trash-alt text-danger"></i>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

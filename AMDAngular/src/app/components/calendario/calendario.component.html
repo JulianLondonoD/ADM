@@ -1,0 +1,15 @@
+<div class="calendar">
+    <app-calendarioheader [fecha]= "fecha"></app-calendarioheader>
+    <div class="collapse show" [id]="'collapse' + fecha">
+        <div class="card card-body">
+            <div class="day-names">
+                <div class="week" *ngFor="let dia of dias">{{dia}}</div>
+                <div *ngFor="let semana of calendario">
+                    <div class="day" *ngFor="let day of semana">
+                        <div>{{day.format("D").toString()}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

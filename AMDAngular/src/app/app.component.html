@@ -1,0 +1,63 @@
+
+<div class="container mt-5"> 
+  <div class="row">
+    <div class="col-log-8">
+      <div class="card">
+          <div class="card-body text-center">
+              <h3>CALENDARIO</h3>
+          </div>
+      </div>
+    </div>  
+  </div>
+  <div class="row mt-4">
+    <div class="col-lg-6">
+      <div class="card-body text-center">
+        <i class="fas fa-arrow-circle-left far" (click)= "prevMonth()"></i>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="card-body text-center">
+        <i class="fas fa-arrow-circle-right far" (click)= "nextMonth()"></i>
+      </div>
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-lg-4">
+      <div class="card">
+          <div class="card-body text-center">
+            <app-calendario [fecha]= "fechaBack"></app-calendario>
+          </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="card">
+          <div class="card-body text-center">
+            <app-calendario [fecha]= "fechaCurrent"></app-calendario>
+          </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="card">
+          <div class="card-body text-center">
+            <app-calendario [fecha]= "fechaNext"></app-calendario>
+          </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+<div class="container mt-5"> 
+  <div class="row">
+    <div class="col-log-8">
+      <div class="card">
+          <div class="card-body text-center">
+              <h3>CATEGORIAS</h3>
+          </div>
+      </div>
+    </div>  
+  </div>
+  <app-categorias></app-categorias>
+</div>
+
+

@@ -1,4 +1,5 @@
 **Metodos**
+
 *Prueba 1: Función para multiplicar dos números sin utilizar el signo de multiplicación. parametros numeroA, numeroB*
 https://localhost:44321/api/Algoritmos/Multiplicar/numeroA/numeroB
 
@@ -11,6 +12,8 @@ https://localhost:44321/api/Algoritmos/Repetidos/texto/palabra/
 *Escribe una función que verifique si un texto es un palíndrom. parametros texto*
 https://localhost:44321/api/Algoritmos/Palindromas/texto/
 
+*Prueba 5: Calendario de trabajo o móvil*
+Debe ejecutar la api y el cliente web.
 
 **Cadena de conxión**
 

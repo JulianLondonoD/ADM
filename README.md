@@ -17,14 +17,14 @@ https://localhost:44321/api/Algoritmos/Palindromas/texto/
 
 *Prueba 5: Calendario de trabajo o móvil*
 
-Debe ejecutar la api y el cliente web.
+Debe ejecutar el api y el cliente web.
 
 **Cadena de conxión**
 
-Debera cambiar la cadena de conexion en el archivo appsettings.json en el proyecto ADM.PruebaTecnica.Api por la nueva ubicacion del archivo ADMDataBase.mdf
+Debera cambiar la cadena de conexión en el archivo appsettings.json en el proyecto ADM.PruebaTecnica.Api por la nueva ubicación del archivo ADMDataBase.mdf
 ```
   "ConnectionStrings": {
-    "MDF": "ubicacion actual del archivo ADMDataBase.mdf"
+    "MDF": "ubicación actual del archivo ADMDataBase.mdf"
   },
 ```
 

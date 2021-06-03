@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Entities\\ADM.PruebaTecnica.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Entities\\ADM.PruebaTecnica.Entities.csproj",
       "projectName": "ADM.PruebaTecnica.Entities",
-      "projectPath": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Entities\\ADM.PruebaTecnica.Entities.csproj",
+      "projectPath": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Entities\\ADM.PruebaTecnica.Entities.csproj",
       "packagesPath": "C:\\Users\\30JTNC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Entities\\obj\\",
+      "outputPath": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30JTNC\\AppData\\Roaming\\NuGet\\NuGet.Config",

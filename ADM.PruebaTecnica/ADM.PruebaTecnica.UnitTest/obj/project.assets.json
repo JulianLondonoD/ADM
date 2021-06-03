@@ -6939,11 +6939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.UnitTest\\ADM.PruebaTecnica.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.UnitTest\\ADM.PruebaTecnica.UnitTest.csproj",
       "projectName": "ADM.PruebaTecnica.UnitTest",
-      "projectPath": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.UnitTest\\ADM.PruebaTecnica.UnitTest.csproj",
+      "projectPath": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.UnitTest\\ADM.PruebaTecnica.UnitTest.csproj",
       "packagesPath": "C:\\Users\\30JTNC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30JTNC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6959,8 +6959,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Services\\ADM.PruebaTecnica.Services.csproj": {
-              "projectPath": "C:\\Users\\30JTNC\\source\\repos\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Services\\ADM.PruebaTecnica.Services.csproj"
+            "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Services\\ADM.PruebaTecnica.Services.csproj": {
+              "projectPath": "C:\\Users\\30JTNC\\Documents\\GitHub\\ADM\\ADM.PruebaTecnica\\ADM.PruebaTecnica.Services\\ADM.PruebaTecnica.Services.csproj"
             }
           }
         }

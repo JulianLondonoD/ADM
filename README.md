@@ -13,6 +13,7 @@ https://localhost:44321/api/Algoritmos/Repetidos/texto/palabra/
 https://localhost:44321/api/Algoritmos/Palindromas/texto/
 
 *Prueba 5: Calendario de trabajo o móvil*
+
 Debe ejecutar la api y el cliente web.
 
 **Cadena de conxión**
@@ -26,6 +27,7 @@ Debera cambiar la cadena de conexion en el archivo appsettings.json en el proyec
 
 
 **Unit Test**
+
 *Los resultados de las pruebas unitarias se alamcenaran en la rura "ADM.PruebaTecnica\TestResults"*
 
 

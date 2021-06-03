@@ -1,3 +1,6 @@
+
+**ADM**
+
 **Metodos**
 
 *Prueba 1: Función para multiplicar dos números sin utilizar el signo de multiplicación. parametros numeroA, numeroB*
